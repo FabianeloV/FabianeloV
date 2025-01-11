@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabian Verdesoto</h1>
 <h3 align="center">A passionate android developer interested in tech and content creation</h3>
 
-- 🔭 I’m currently working on [ConnectingU](https://github.com/FabianeloV/ConnectingU)
+- 🔭 I’m currently working on [ConnectingU](https://github.com/FabianeloV/ConnectingU) and getting my computer science engineering degree.
 
 - 🌱 I’m currently learning **Kotlin multi platform**
 
