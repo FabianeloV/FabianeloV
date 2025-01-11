@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin multi platform**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FabianeloV?tab=overview&from=2025-01-01&to=2025-01-11](https://github.com/FabianeloV?tab=overview&from=2025-01-01&to=2025-01-11)
+- 👨‍💻 All of my projects are available at [https://github.com/FabianeloV](https://github.com/FabianeloV)
 
 - 💬 Ask me about **Kotlin, Jetpack Compose and Firebase**
 
