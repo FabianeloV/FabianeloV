@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fabian Verdesoto</h1>
 <h3 align="center">A passionate android developer interested in tech and content creation</h3>
 
-- 🔭 I’m currently working on [ConnectingU](https://github.com/FabianeloV/ConnectingU) and getting my computer science engineering degree.
+- 🔭 I’m currently working on [ConnectingU](https://github.com/FabianeloV/ConnectingU) and getting my computer science engineering degree at the [UCuenca](https://www.ucuenca.edu.ec).
 
-- 🌱 I’m currently learning **Kotlin multi platform**
+- 🌱 I’m currently learning **Kotlin multi-platform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FabianeloV](https://github.com/FabianeloV)
 
